@@ -16,7 +16,7 @@ You want to know a little more about the Repository pattern? [Read this great ar
 - <a href="#installation">Installation</a>
     - <a href="#composer">Composer</a>
     - <a href="#laravel">Laravel</a>
-- <a href="#methods">Methods</a>
+- <a href="#methods">Methods</a> jmjdnjcd
     - <a href="#prettusrepositorycontractsrepositoryinterface">RepositoryInterface</a>
     - <a href="#prettusrepositorycontractsrepositorycriteriainterface">RepositoryCriteriaInterface</a>
     - <a href="#prettusrepositorycontractscacheableinterface">CacheableInterface</a>
